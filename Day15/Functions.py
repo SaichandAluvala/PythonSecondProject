@@ -2,7 +2,7 @@
 
 def function_name():
     print("Hello World")
-print(function_name())
+function_name()
 
 def function_name(a,b):
     print(a+b)
